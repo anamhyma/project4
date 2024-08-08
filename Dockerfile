@@ -1,2 +1,2 @@
 FROM nginx:latest
-CMD ["eho","Hello,This is project4"]
+CMD ["echo","Hello,This is project4"]
